@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"apples-MacBook-Pro.local","pid":50969,"time":"2023-09-08T05:08:59.183093Z","target":"sugar","line":123,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Failed to read keypair file: ./wallet.json, No such file or directory (os error 2)","level":50,"hostname":"apples-MacBook-Pro.local","pid":50969,"time":"2023-09-08T05:08:59.184544Z","target":"sugar_cli::setup","line":55,"file":"src/setup.rs"}
